@@ -19,13 +19,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ![Design Preview](./images/Screenshot%202023-08-29%20194054.png)
 
 
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
-## My process
-
 ### Built with
 
 - Semantic HTML5 markup
